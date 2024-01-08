@@ -1,6 +1,6 @@
-# Project Name
+# CHAT Application - backend
 
-Brief description of your project.
+Brief description of the project.
 
 ## Table of Contents
 
